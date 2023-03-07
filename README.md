@@ -18,3 +18,9 @@ git push origin master : all push
 
 ------SSH key -------
 ssh-keygen -t rsa -b 4096 -C "email@example.com"  : the email address is your github account 
+recommand youtube : https://www.youtube.com/watch?v=vExsOTgIOGw
+
+
+
+##
+subhedder
