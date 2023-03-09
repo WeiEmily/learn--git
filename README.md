@@ -24,3 +24,11 @@ recommand youtube : https://www.youtube.com/watch?v=vExsOTgIOGw
 
 ##
 subhedder
+
+-------push 
+create new folder in the list 
+cd to this folder 
+git init
+git all .
+create a new repository 
+git remote add origin <link of you copy >
