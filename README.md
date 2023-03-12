@@ -66,3 +66,23 @@ git commit -am "messgae "   add and commit together
 git merge master        merge to master
 
 
+------if make mistake how to restore -------
+git status     , show which one is changed 
+git reset  filename        , reset the file name"
+
+git reset HEAD~1       , reset commit 
+git log                   , show all commit 
+ copy hash code  (click space to exit)
+
+
+ git reset <hash code>   ,reset the hashcode position
+
+git reset --hard <hashcode>      , reset hashcode and save 
+
+
+
+
+
+--------------fork-----------------
+fork others code 
+-save to own code 
