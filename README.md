@@ -29,6 +29,9 @@ subhedder
 create new folder in the list 
 cd to this folder 
 git init
-git all .
+git add .
 create a new repository 
 git remote add origin <link of you copy >
+git remote -v
+git push origin master
+git push -u origin master
