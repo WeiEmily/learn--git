@@ -35,3 +35,34 @@ git remote add origin <link of you copy >
 git remote -v
 git push origin master
 git push -u origin master
+
+
+
+
+
+
+-----------branching --------
+git branch      show all branch
+git checkout -b feature-11        feature-11 is the name of branch <after enter change the new branch>
+git checkout master      change back to master branch<hit table button can select you want >
+
+git diff  feature-11    show all the dieffrent between  feature-11  
+git push -u origin feature-11         push feature 
+
+git branch -d feature-11          delete branch but after merge 
+
+--we can push in the hub webpage , because it show which one merge to which 
+
+
+
+
+-pull down from github----
+git pull origin master
+
+
+
+git commit -am "messgae "   add and commit together  
+
+git merge master        merge to master
+
+
